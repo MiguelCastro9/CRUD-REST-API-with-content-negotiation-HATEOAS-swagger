@@ -1,6 +1,6 @@
 # Overview
 
-A CRUD system with Content negotiation, HATEOAS, Swagger, persistence and using the REST API architecture and the main HTTP verbs (GET, POST, PUT and DELETE)
+A CRUD system with Content negotiation, HATEOAS, Swagger, persistence, SpringBoot, REST API architecture and the main HTTP verbs (GET, POST, PUT and DELETE)
 
 ### Swagger (Open API)
 ![image](https://user-images.githubusercontent.com/56695817/169413390-59c09714-18fd-431e-b311-b0fc37800cbd.png)
